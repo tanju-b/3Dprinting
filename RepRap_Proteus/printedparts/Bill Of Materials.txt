@@ -1,0 +1,66 @@
+Ultimachine.com
+
+Heated Bed http://ultimachine.com/content/prusa-pcb-heated-bed
+
+
+5xmotors http://ultimachine.com/content/kysan-1124090-nema-17-stepper-motor
+
+
+ramps w/wmechanical endstops and dual z motors http://ultimachine.com/ramps-pre-assembled-kit-complete
+
+
+extruder bolt http://ultimachine.com/content/hive76-milled-bolt-m8-x-60mm
+
+
+2x belts also found at sdpsi http://ultimachine.com/content/timing-belt-gt2-1164mm
+
+
+2x pulleys also found at sdpsi http://ultimachine.com/content/timing-pulley-gt2-20-tooth
+
+
+2x couplers http://ultimachine.com/content/motor-shaft-coupling-5mm-8mm
+
+
+6x skate bearings http://ultimachine.com/content/608zz-bearing
+
+ebay.com
+
+
+12x lm8uu linear bearings http://www.ebay.com/itm/12pcs-LM8UU-8mm-Linear-Ball-Bearing-Bush-Bushing-/300623653060?pt=LH_DefaultDomain_0&hash=item45fe90e8c4
+
+hotends.com
+
+
+extruder hot end .35 for 3mm pla https://www.hotends.com/index.php?route=product/product&product_id=83
+
+
+
+misumi.com
+--ALUMINUM FRAME 
+400mm x12  HFS5-2020-400
+--ALUMINUM FRAME 
+
+300mm x12  HFS5-2020-300
+NUTS FOR ALUMINIUM FRAMES HNKK5-5
+
+
+
+mcmaster.com
+--93070A121	2 bags Metric Low Head Socket Cap Screw, Class 8.8 Steel, M5 Size, 10 Mm Length, .8mm Pitch
+--a few m3 set screws
+--20mm m3 bolts
+--4 40mm m4 bolts
+--m3 nuts
+--m4 nuts
+--m5 nuts
+--5x m8 nuts
+--m3,m4,m5,m8 washers
+
+--2 meters of 8mm smooth rod
+--1 meter of 8mm threaded rod
+
+
+
+
+mcmaster = 182.30
+misumi = 150
